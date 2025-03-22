@@ -1,0 +1,28 @@
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\bin\Debug\net8.0\DAL_CRUD.deps.json
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\bin\Debug\net8.0\DAL_CRUD.runtimeconfig.json
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\bin\Debug\net8.0\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\bin\Debug\net8.0\DAL_CRUD.pdb
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.csproj.AssemblyReference.cache
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.AssemblyInfoInputs.cache
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.AssemblyInfo.cs
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\refint\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.pdb
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.genruntimeconfig.cache
+C:\Users\pooja\source\repos\WebApiCore Practice\DAL_CRUD\obj\Debug\net8.0\ref\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\bin\Debug\net8.0\DAL_CRUD.deps.json
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\bin\Debug\net8.0\DAL_CRUD.runtimeconfig.json
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\bin\Debug\net8.0\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\bin\Debug\net8.0\DAL_CRUD.pdb
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.csproj.AssemblyReference.cache
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.AssemblyInfoInputs.cache
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.AssemblyInfo.cs
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\refint\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.pdb
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\DAL_CRUD.genruntimeconfig.cache
+C:\Users\pooja\source\repos\WebApiCore\DAL_CRUD\obj\Debug\net8.0\ref\DAL_CRUD.dll

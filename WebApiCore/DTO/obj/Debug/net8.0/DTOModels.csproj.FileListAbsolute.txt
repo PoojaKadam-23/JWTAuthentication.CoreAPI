@@ -1,0 +1,30 @@
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\bin\Debug\net8.0\DTOModels.deps.json
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\bin\Debug\net8.0\DTOModels.dll
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\bin\Debug\net8.0\DTOModels.pdb
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\bin\Debug\net8.0\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\bin\Debug\net8.0\DAL_CRUD.pdb
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\DTOModels.csproj.AssemblyReference.cache
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\DTOModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\DTOModels.AssemblyInfoInputs.cache
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\DTOModels.AssemblyInfo.cs
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\DTOModels.csproj.CoreCompileInputs.cache
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\DTOModels.csproj.Up2Date
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\DTOModels.dll
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\refint\DTOModels.dll
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\DTOModels.pdb
+C:\Users\pooja\source\repos\WebApiCore Practice\DTO\obj\Debug\net8.0\ref\DTOModels.dll
+C:\Users\pooja\source\repos\WebApiCore\DTO\bin\Debug\net8.0\DTOModels.deps.json
+C:\Users\pooja\source\repos\WebApiCore\DTO\bin\Debug\net8.0\DTOModels.dll
+C:\Users\pooja\source\repos\WebApiCore\DTO\bin\Debug\net8.0\DTOModels.pdb
+C:\Users\pooja\source\repos\WebApiCore\DTO\bin\Debug\net8.0\DAL_CRUD.dll
+C:\Users\pooja\source\repos\WebApiCore\DTO\bin\Debug\net8.0\DAL_CRUD.pdb
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\DTOModels.csproj.AssemblyReference.cache
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\DTOModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\DTOModels.AssemblyInfoInputs.cache
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\DTOModels.AssemblyInfo.cs
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\DTOModels.csproj.CoreCompileInputs.cache
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\DTOModels.csproj.Up2Date
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\DTOModels.dll
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\refint\DTOModels.dll
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\DTOModels.pdb
+C:\Users\pooja\source\repos\WebApiCore\DTO\obj\Debug\net8.0\ref\DTOModels.dll
